@@ -4,6 +4,8 @@ title: Игорь Янчуков | AI Implementation & Automation
 
 # Игорь Янчуков
 
+**Сайт личного бренда:** [ingo systems](https://ingo-systems.ingo-systems-brand.workers.dev/)
+
 ## Внедрение AI и автоматизация
 
 Работаю на стыке управленческой задачи, системной логики и AI-assisted delivery. Определяю требуемое поведение, направляю итерации coding agents, проверяю результат и принимаю решения о дальнейших изменениях.
