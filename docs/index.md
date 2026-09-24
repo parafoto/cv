@@ -16,6 +16,7 @@ title: Игорь Янчуков | AI Implementation & Automation
 
 - [DirectorIQ](directoriq.md): управленческий workflow, HTTP API, PostgreSQL, сводки через Ollama.
 - [DirectorIQ Local AI Node](directoriq-local-ai-node.md): концепция локального помощника руководителя на административных данных.
+- [CNC-A1 operations brief](cnc-a1-case.md): локальная read-only автоматизация сводки по агрегатам; проверена на синтетической базе.
 - [VitaCRM](vitacrm.md): обработка поручения через черновик и человеческое подтверждение.
 - [LegasVex](legasvex.md): проект с API, локальной моделью, orchestration и approval-компонентами; без заявления готового RAG/MCP или production-системы.
 
