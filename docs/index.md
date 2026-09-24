@@ -1,8 +1,8 @@
 ---
-title: Игорь Янчуков | AI Implementation & Automation
+title: ingo systems | AI Implementation & Automation
 ---
 
-# Игорь Янчуков
+# ingo systems
 
 **Сайт личного бренда:** [ingo systems](https://ingo-systems.ingo-systems-brand.workers.dev/)
 
